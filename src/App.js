@@ -53,7 +53,7 @@ function App() {
         )
        })
     }
-    {
+    {/* {
       toDos.map((obj)=>{
         if(obj.status){
           return(<h1>{obj.text} aaaa</h1>)
@@ -61,7 +61,7 @@ function App() {
           return null;
         }
       })
-    }
+    } */}
     
       </div>
     </div>
